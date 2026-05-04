@@ -1,3 +1,5 @@
+<img width="225" height="225" alt="amongus" src="https://github.com/user-attachments/assets/6fdda48a-e58e-4dc1-93fa-eb8280a85037" />
+
 # Pac-ghost
 Pac ghost is a tool that reads lists and downloads it packages - it makes it easier for developers to automate instalations
 
