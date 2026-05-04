@@ -13,3 +13,5 @@ its for fun and because i hadnt made a bash script for almost 1 month  :)
 
 # Sources
 it will be soon on aur when its done, Because while you are reading this... the repository is like my pictures folder
+
+Note: the pacman ghost at the top is just the first thing i got on my mind for the logo :)
